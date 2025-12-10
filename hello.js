@@ -3,4 +3,5 @@ const a = () => {
 }
 const b = () => {
     alert("main")
+    return 5
 }
